@@ -6,6 +6,7 @@ class My_class {
         std::string my_element;
 
     public:
+        My_class();
         My_class(std::string input);
         std::string print_my_element();
 };
