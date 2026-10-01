@@ -1,5 +1,7 @@
 #include "My_class.h"
 
+
+My_class::My_class() {}
 My_class::My_class(std::string input) {
     my_element = input;
 }
